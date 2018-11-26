@@ -11,7 +11,7 @@ def test_delete():
 class Test04():
 
 
-    # 通过参数方式 运行 fixture
+    # 通过参数方式运行 fixture
     # @pytest.fixture()
     def test_get(self):
         print("查询成功")
